@@ -22,7 +22,7 @@ npm install
 
 ### 📦 Requirements
 
-- **Node.js v16.17.0 or higher**
+- **Node.js v16.17.0**
 - A Discord bot token from the [Discord Developer Portal](https://discord.com/developers/applications)
 
 ### 🔧 Configuration
