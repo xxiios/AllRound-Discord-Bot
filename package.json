@@ -1,0 +1,25 @@
+
+{
+    "name": "xxiios-scripts",
+    "version": "4.0.0",
+    "description": "Xxiios Scripts",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Xxiios Scripts",
+    "dependencies": {
+        "captcha-canvas": "^3.1.0",
+        "comma-number": "^2.1.0",
+        "discord-giveaways": "^4.2.1",
+        "discord.js": "^13.17.1",
+        "fs": "^0.0.1-security",
+        "js-yaml": "^4.1.0",
+        "moment": "^2.29.1",
+        "ms": "^2.1.3",
+        "quick.db": "^7.1.3",
+        "request": "^2.88.2",
+        "restify": "^8.0.0",
+        "restify-plugins": "^1.6.0"
+    }
+}
