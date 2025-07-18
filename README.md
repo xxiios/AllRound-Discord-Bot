@@ -44,11 +44,7 @@ guildId: 'YOUR_GUILD_ID'
 npm start
 ```
 
-## 🖼️ Screenshot
-
-*(Add an image or GIF of your bot in action here)*
-
 ## 🧾 License & Credits
 
 © 2025 by Dyll – [discord.gg/B72kawFwqa](https://discord.gg/B72kawFwqa)  
-All rights reserved. Code originally modified and optimized from purchased source.
+All rights reserved. Code originally modified and optimized.
